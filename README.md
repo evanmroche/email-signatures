@@ -1,2 +1,2 @@
-# guy-email-signatures
+# email-signatures
 Hosted assets for client email signatures
